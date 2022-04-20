@@ -563,3 +563,6 @@ spelling.json
 # Gatsby / Website
 website/.cache
 website/public
+
+.fake
+.ionide
